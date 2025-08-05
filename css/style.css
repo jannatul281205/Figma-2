@@ -48,7 +48,7 @@ h1,h2,h3,h4,h5,h6,p{
     color: #181818;
     align-items: center;
     padding: 13px 0px;
-    transition: 0.5s;
+    transition: 0.4s;
 }
 .menu ul li a:hover{
     color: #5956E8;
