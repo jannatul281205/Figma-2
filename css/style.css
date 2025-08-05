@@ -23,7 +23,13 @@ h1,h2,h3,h4,h5,h6,p{
 }
 /* Common css end  */
 /* Header part start  */
-
+#headerPart{
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    position: fixed;
+    background-color: #fff;
+}
 .logoMenu{
     display: flex;
     justify-content: space-between;
@@ -373,8 +379,10 @@ h1,h2,h3,h4,h5,h6,p{
 }
 .socialOne{
     color: #337FFF;
+    font-size: 40px;
 }
 .socialTwo{
     color: #33CCFF;
+    font-size: 40px;
 }
 /* Footer part end  */
